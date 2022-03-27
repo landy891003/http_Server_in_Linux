@@ -1,0 +1,6 @@
+html text/html
+htm text/htm
+txt text/plain
+png image/png
+ico image/x-icon
+jpg image/jpeg
